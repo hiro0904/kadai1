@@ -20,6 +20,8 @@
 
 - 表の品詞を指定して選べるようにする
 
+- web上に公開する。herokuの無料版が無くて、streamlitはinstalling requirementsのエラーで動かず撤退
+
 ## 工夫点
 
 - 特になし。streamlit知れてモチベ上がった
