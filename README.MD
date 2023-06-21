@@ -18,7 +18,7 @@
 
 ## やっていないこと
 
-- 改行がはいるとエラーが出る。改行文字を消したり
+- 改行がはいるとエラーが出る。改行文字を消す、strip()等で対応できず
 
 - 表の品詞を指定して選べるようにする
 
@@ -27,3 +27,8 @@
 ## 工夫点
 
 - 特になし。streamlit知れてモチベ上がった
+
+## how to use
+
+- streamlit run xxx.py のようにして実行する。streamlit、Tokenizer、pandas、collections
+が必要
